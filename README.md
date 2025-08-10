@@ -86,8 +86,9 @@ Los datos se guardan bajo la clave `kanbanflow-projects` en `localStorage`. Para
   ```
   Salida en `dist/`.
 
-## Licencia
-Decide la licencia (MIT recomendada). Crea un archivo `LICENSE` si la defines.
+## Video
+https://youtu.be/dSdG_zfX0HU
+En este enlace pueden ver el video de demostración de mi proyecto. 
 
 ---
 ¡Listo! Modifica este README según evolucione el proyecto.
